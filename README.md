@@ -1,6 +1,6 @@
-# LinkList
+# Link_List
 
-[Visit Now](https://jigar-sable.github.io/LinkList) 🚀
+[Visit Now](https://akif-jawaid.github.io/Link_List/) 🚀
 
 ## Overview
 
